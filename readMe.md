@@ -57,7 +57,6 @@ The following packages are required to run the project:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yaqibytes/dsci551-project-chatdb.git
-   cd chatdb
    ```
 
 2. Install required packages:
